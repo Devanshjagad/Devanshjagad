@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BackEnd Development**
 
-- 💬 Ask me about **html,css,js,php,C**
+- 💬 Ask me about **Front end development**
 
 - 📫 How to reach me **devanshjagad27@gmail.com**
 
