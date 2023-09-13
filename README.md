@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshjagad&label=Profile%20views&color=0e75b6&style=flat" alt="devanshjagad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshjagad" alt="devanshjagad" /></a> </p>
-
 - 🔭 I’m currently working on **ML/AI**
 
 - 🌱 I’m currently learning **nodejs,expressjs & reactjs**
