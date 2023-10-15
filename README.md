@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <b>I’m currently working on</b> React & Vue JS <br>👯 <b>I’m looking to collaborate on </b> Frontend development related works<br>🤝 <b>I’m looking for help with </b> Backend development<br>🌱<b> I’m currently learning </b> React and Vue Js<br><b> 💬 Ask me about</b> Frontend Development <br>⚡ Fun fact
+🔭 <b>I’m currently working on</b> React & Vue JS <br>👯 <b>I’m looking to collaborate on </b> Frontend development related works<br>🤝 <b>I’m looking for help with </b> Backend development<br>🌱<b> I’m currently learning </b> React and Vue Js<br><b> 💬 Ask me about</b> Frontend Development <br>⚡ <b>Fun fact</b> I am funny
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
