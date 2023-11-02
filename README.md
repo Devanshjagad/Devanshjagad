@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <b>I’m currently working to</br> improve my skills  <br>👯 <b>I’m looking to collaborate on </b> Frontend development related tasks and works <br>🤝 <b>I’m looking for help with </b> Backend development<br>🌱<b> I’m currently learning </b> React JS and its in-depth concepts <br> <b> 💬 Ask me about</b> Philosophy <br>⚡ <b>Fun fact</b> I am lazyy
+🔭 <b>I’m currently working to</b> improve my skills  <br>👯 <b>I’m looking to collaborate on </b> Frontend development related tasks and works <br>🤝 <b>I’m looking for help with </b> Backend development<br>🌱<b> I’m currently learning </b> React JS and its in-depth concepts <br> <b> 💬 Ask me about</b> Philosophy <br>⚡ <b>Fun fact</b> I am lazyy
 
 
 
